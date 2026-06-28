@@ -35,7 +35,7 @@ Full findings summary available in [`/findings`](./findings).
 
 ## Live Dashboard
 
-View the interactive dashboard on Tableau Public: [link]
+View the interactive dashboard on Tableau Public: [https://public.tableau.com/views/Copy_17826017627110/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 ## Data Source
 
