@@ -4,10 +4,10 @@ Summary documentation of the analysis methodology, results, and data quality pro
 
 ## Files
 
-**CMS_Hospital_Quality_Findings_Summary.pdf**
+**CMS Hospital Quality Findings Summary.pdf**
 A one-page summary covering the project's problem statement, methodology, key insights, and implications. This is the primary takeaway document for anyone wanting a quick overview of what the analysis found without reviewing the underlying SQL or dashboard.
 
-**data_cleaning_log.pdf**
+**CMS Hospital Quality Findings Summary Cleaning Log.pdf**
 Documentation of data quality issues identified in the raw CMS datasets and the resolution applied to each, including handling of missing rating values, inconsistent formatting, and data type corrections.
 
 ## Summary of Key Insights
