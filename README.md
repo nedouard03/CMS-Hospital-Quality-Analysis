@@ -40,7 +40,8 @@ View the interactive dashboard on Tableau Public: [https://public.tableau.com/vi
 ## Data Source
 
 CMS Hospital General Information, accessed via [data.cms.gov](https://data.cms.gov/provider-data/dataset/xubh-q36u#data-table)
-CMS HCAHPS datasets, accessed via [data.cms.gov]([https://data.cms.gov/provider-data/dataset/xubh-q36u#data-table](https://data.cms.gov/provider-data/dataset/dgck-syfz))
+
+CMS HCAHPS datasets, accessed via [data.cms.gov](https://data.cms.gov/provider-data/dataset/dgck-syfz)
 
 
 ## About
