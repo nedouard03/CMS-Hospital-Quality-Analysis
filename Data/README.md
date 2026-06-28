@@ -12,8 +12,9 @@ An exported and filtered version of the CMS HCAHPS (Hospital Consumer Assessment
 
 ## Source
 
-Both datasets were accessed via the CMS public data portal:
-[https://data.cms.gov/provider-data/dataset/xubh-q36u#data-table](https://data.cms.gov/provider-data/dataset/xubh-q36u#data-table)
+CMS Hospital General Information, accessed via [data.cms.gov](https://data.cms.gov/provider-data/dataset/xubh-q36u#data-table)
+
+CMS HCAHPS datasets, accessed via [data.cms.gov](https://data.cms.gov/provider-data/dataset/dgck-syfz)
 
 ## Notes
 
