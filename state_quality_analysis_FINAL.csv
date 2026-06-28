@@ -1,0 +1,43 @@
+State,region,total_hospitals,patient_survey_star_rating,average_overall_rating,national_average_rating,overall_rating_vs_national,high_ovr_rating_count,percentage_low_rated,survey_coverage_percentage,survey_coverage_tier,Composite_Worse_Count,priority_flag,percent_below_national_avg_mort,percent_below_national_avg_safety,composite_risk_flag
+NM,West,20,2.85,2.45,3.08,Below,1,55,100,Strong,0.6,Monitor,5,10,High Risk
+MS,South,45,3.27,2.49,3.08,Below,10,57.8,73.3,Moderate,1.41,Monitor,40,17.78,High Risk
+NY,Northeast,131,2.64,2.53,3.08,Below,25,53.4,97.7,Strong,1.64,Monitor,10.69,25.95,High Risk
+AL,South,51,3.11,2.57,3.08,Below,7,51,92.2,Strong,1.57,Monitor,35.29,19.61,High Risk
+AR,South,40,3.21,2.62,3.08,Below,6,40,85,Strong,1.27,Monitor,20,22.5,High Risk
+WV,South,27,3.26,2.63,3.08,Below,9,51.9,100,Strong,1.19,Monitor,18.52,22.22,High Risk
+GA,South,79,3.03,2.65,3.08,Below,18,49.4,100,Strong,1.21,Monitor,17.72,18.99,High Risk
+KY,South,56,3.33,2.71,3.08,Below,15,50,91.1,Strong,1.19,Monitor,28.57,16.07,High Risk
+NV,West,25,2.68,2.72,3.08,Below,5,48,100,Strong,1.09,Monitor,16,8,High Risk
+FL,South,163,2.59,2.83,3.08,Below,53,39.9,98.2,Strong,1.36,Monitor,9.2,8.59,Elevated Risk
+NJ,Northeast,61,2.63,2.9,3.08,Below,16,32.8,98.4,Strong,1.61,Monitor,11.48,14.75,Elevated Risk
+LA,South,48,3.43,2.9,3.08,Below,11,31.3,97.9,Strong,0.91,Monitor,16.67,14.58,Elevated Risk
+IL,Midwest,124,2.91,2.91,3.08,Below,45,41.1,88.7,Strong,1.11,Monitor,8.06,13.71,High Risk
+MI,Midwest,87,3,2.99,3.08,Below,35,36.8,97.7,Strong,1.11,Monitor,8.05,22.99,Elevated Risk
+CA,West,266,2.8,3.01,3.08,Below,96,32.7,97.4,Strong,1.03,Monitor,9.4,10.9,Elevated Risk
+NC,South,86,3.29,3.01,3.08,Below,29,31.4,96.5,Strong,0.98,Monitor,18.6,15.12,Elevated Risk
+TN,South,66,3.08,3.02,3.08,Below,21,33.3,98.5,Strong,0.89,Monitor,19.7,13.64,Elevated Risk
+IA,Midwest,41,3.51,3.02,3.08,Below,16,31.7,90.2,Strong,0.71,Monitor,21.95,7.32,Elevated Risk
+AZ,West,53,2.66,3.02,3.08,Below,14,34,100,Strong,0.74,Monitor,9.43,15.09,Elevated Risk
+ME,Northeast,21,3.8,3.05,3.08,Below,9,38.1,95.2,Strong,0.3,Monitor,4.76,4.76,Elevated Risk
+MD,South,42,2.76,3.1,3.08,Above,13,31,97.6,Strong,1.17,Monitor,7.14,28.57,Elevated Risk
+MO,Midwest,67,3.14,3.1,3.08,Above,24,28.4,97,Strong,0.97,Monitor,17.91,8.96,Standard
+WA,West,58,3.16,3.12,3.08,Above,23,31,96.6,Strong,0.85,Monitor,18.97,12.07,Elevated Risk
+CT,Northeast,26,3.04,3.19,3.08,Above,7,11.5,100,Strong,1.08,Stable,3.85,3.85,Standard
+OR,West,39,3.5,3.21,3.08,Above,15,20.5,97.4,Strong,0.66,Stable,20.51,23.08,Standard
+MA,Northeast,53,3.2,3.21,3.08,Above,22,28.3,96.2,Strong,1.32,Monitor,3.77,15.09,Standard
+TX,South,197,3.05,3.24,3.08,Above,83,24.9,95.9,Strong,0.87,Stable,12.18,8.12,Standard
+NH,Northeast,20,3.74,3.25,3.08,Above,8,20,95,Strong,0.6,Stable,5,10,Standard
+SC,South,49,3.27,3.27,3.08,Above,19,26.5,100,Strong,0.71,Monitor,18.37,6.12,Standard
+PA,Northeast,122,3.21,3.28,3.08,Above,52,23.8,95.9,Strong,0.7,Stable,3.28,13.93,Standard
+OK,South,50,3.17,3.3,3.08,Above,23,24,94,Strong,0.87,Stable,12,22,Standard
+IN,Midwest,85,3.32,3.33,3.08,Above,30,14.1,89.4,Strong,0.79,Stable,17.65,12.94,Standard
+NE,Midwest,26,3.68,3.35,3.08,Above,10,11.5,96.2,Strong,0.73,Stable,15.38,19.23,Standard
+OH,Midwest,120,3.34,3.42,3.08,Above,52,14.2,96.7,Strong,0.65,Stable,2.5,20.83,Standard
+KS,Midwest,42,3.39,3.45,3.08,Above,23,26.2,90.5,Strong,0.58,Monitor,21.43,7.14,Standard
+VA,South,74,3.42,3.46,3.08,Above,35,9.5,98.6,Strong,0.88,Stable,9.46,8.11,Standard
+ID,West,17,3.67,3.59,3.08,Above,9,11.8,88.2,Strong,0.5,Stable,17.65,5.88,Standard
+MT,West,16,3.75,3.62,3.08,Above,11,18.8,100,Strong,0.56,Stable,25,6.25,Standard
+WI,Midwest,66,3.78,3.77,3.08,Above,43,6.1,98.5,Strong,0.55,Stable,3.03,9.09,Standard
+MN,Midwest,41,3.63,3.8,3.08,Above,27,7.3,100,Strong,0.33,Stable,4.88,4.88,Standard
+CO,West,45,3.32,3.87,3.08,Above,31,6.7,97.8,Strong,0.4,Stable,0,13.33,Standard
+UT,West,23,3.61,4.09,3.08,Above,18,8.7,100,Strong,0.09,Stable,0,4.35,Standard
