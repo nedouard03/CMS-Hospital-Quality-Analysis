@@ -1,2 +1,2 @@
 # CMS-Hospital-Quality-Analysis
-This project analyzes publicly available CMS Medicare hospital data to identify regional disparities in hospital quality ratings and patient survey coverage across the United States. 
+This project analyzes publicly available CMS Medicare hospital data to identify regional disparities in hospital quality ratings and patient survey coverage across the United States. Using the Hospital General Information and HCAHPS (Hospital Consumer Assessment of Healthcare Providers and Systems) datasets, the analysis examines how overall ratings vary by region, ownership type, and state, and where underperforming quality measures are most significant. Outputs include a Tableau dashboard and a one-page findings summary.
