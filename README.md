@@ -46,4 +46,4 @@ CMS HCAHPS datasets, accessed via [data.cms.gov](https://data.cms.gov/provider-d
 
 ## About
 
-Built by Nikhil Edouard as an independent healthcare analytics project. Connect with me on [LinkedIn](www.linkedin.com/in/nikhil-edouard).
+Built by Nikhil Edouard as an independent healthcare analytics project. Connect with me on [LinkedIn](https://www.linkedin.com/in/nikhil-edouard).
