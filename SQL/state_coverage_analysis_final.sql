@@ -38,7 +38,7 @@ WHERE
   hospital_overall_rating <> 'Not Available'),
 
 --Cleaned survey Table
-  clean_surveys AS (
+clean_surveys AS (
 SELECT
   Facility_ID,
   TRIM(Facility_name) as facility_name,
@@ -92,19 +92,19 @@ national_benchmark AS (
 
 --State Level quality and coverage scorecard
 SELECT
-	sq.State,
+  sq.State,
   sq.region,
-	sc.total_hospitals,
+  sc.total_hospitals,
   sc.patient_survey_star_rating,
-	sq.average_overall_rating,
-	nb.national_average_rating,
+  sq.average_overall_rating,
+  nb.national_average_rating,
 	CASE
 		WHEN sq.average_overall_rating > nb.national_average_rating THEN 'Above'
 		WHEN sq.average_overall_rating = nb.national_average_rating THEN 'At'
 		ELSE 'Below'
 	END AS overall_rating_vs_national,
-	sq.high_ovr_rating_count,
-	sq.percentage_low_rated,
+  sq.high_ovr_rating_count,
+  sq.percentage_low_rated,
   ROUND((sc.hospitals_with_survey_data *100.0)/sc.total_hospitals,1) AS survey_coverage_percentage,
 	CASE 
 		WHEN (sc.hospitals_with_survey_data  *100.0)/sc.total_hospitals > 80 THEN 'Strong'
@@ -118,7 +118,7 @@ SELECT
 		ELSE 'Stable'
 	END AS priority_flag,
   sq.percent_below_national_avg_mort,
-	sq.percent_below_national_avg_safety,
+  sq.percent_below_national_avg_safety,
 	CASE
 		WHEN sq.percentage_low_rated >= 40 OR (sq.percentage_low_rated >= 25 AND (sq.percent_below_national_avg_safety >=40 OR sq.percent_below_national_avg_mort>=40)) THEN 'High Risk'
 		WHEN sq.percentage_low_rated >= 30 OR (sq.percentage_low_rated >= 15 AND (sq.percent_below_national_avg_safety >=30 OR sq.percent_below_national_avg_mort>=30)) THEN 'Elevated Risk'
@@ -135,6 +135,6 @@ WHERE
 	sc.total_hospitals>=15
 ORDER BY
   composite_risk_flag,
-  	sq.average_overall_rating;
+  sq.average_overall_rating;
 
 
