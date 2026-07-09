@@ -4,7 +4,7 @@ Interactive dashboard visualizing the CMS hospital quality analysis.
 
 ## Files
 
-**CMS_Hospital_Quality_Dashboard.twbx**
+**CMS Hospital Quality Analysis.twbx**
 Tableau packaged workbook containing all dashboard sheets and underlying data connections. Open with Tableau Desktop or Tableau Public to interact with the full dashboard.
 
 **Quality Analysis Dashboard.png**
