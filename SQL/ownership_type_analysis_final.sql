@@ -61,8 +61,7 @@ SELECT
   ROUND(AVG(cs.patient_survey_star_rating),2) AS avg_survey_rating,
   ROUND(AVG(SAFE_DIVIDE(ch.composite_better_count, ch.composite_worse_count)),2) AS composite_count_ratio,
   ROUND(AVG(ch.composite_worse_count),2) AS avg_composite_worse_count,
-  ROUND(AVG(ch.composite_better_count),2) AS avg_composite_better_count,
-
+  ROUND(AVG(ch.composite_better_count),2) AS avg_composite_better_count
 FROM
   clean_hospitals as ch
 LEFT JOIN
