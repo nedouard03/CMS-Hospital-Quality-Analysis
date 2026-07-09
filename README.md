@@ -23,7 +23,7 @@ Full findings summary available in [`/findings`](./findings).
 |---|---|
 | [`/data`](./data) | Source CMS datasets used in this analysis |
 | [`/sql`](./sql) | BigQuery SQL queries for cleaning and analysis |
-| [`/findings`](./findings) | One-page findings summary and data cleaning log |
+| [`/findings`](./findings) | Findings summary and data cleaning log |
 | [`/tableau`](./tableau) | Interactive Tableau dashboard and workbook file |
 
 ## Tools Used
